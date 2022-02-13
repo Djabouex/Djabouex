@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi, I'm Mohamed Djaballah 👋</h1>
 <p align="center">
