@@ -9,8 +9,8 @@
 
 I'm a ForntEnd developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
-- 🔭 I'm a Frontend Dev [@fiverr] FreeLnacer
+- 🔭 I'm a Frontend developer at [@fiverr] 
 - 🔍 I have a live Website:
--    https://djaboux.bio.link/ 
+-    [  https://djaboux.bio.link/ ]
 -  🌱 I’m currently learning for javascript
 - 💬 Ask me about **Security and Frontend and IT **
