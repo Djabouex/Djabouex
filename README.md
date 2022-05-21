@@ -14,3 +14,18 @@ I'm a Computer Technician and Project Manager Previously worked in a center of m
 - :gem: I love to customize everything lol
 - 🥅 2022 Goals: Hmm..thinking.!
 - 💬 Ask me about **Computer Technician and Project manager and WebDev **
+
+
+⚡ Fun fact <br>
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/MohamedDjaboux]) -->
+<a href="https://www.buymeacoffee.com/MohamedDjaboux">
+<img width="140" height="auto" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?w=384&q=75" />
+</a>
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Djabouex" alt="Djabouex" /> 
+</p>
+
