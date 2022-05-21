@@ -11,6 +11,6 @@ I'm a ForntEnd developer who is passionate about creating technology to elevate 
 
 - 🔭 I'm a Frontend developer at [@fiverr] 
 - 🔍 I have a live Website:
--    [  https://djaboux.bio.link/ ]
+-    [ https://djaboux.neocities.org/ ]
 -  🌱 I’m currently learning for javascript
 - 💬 Ask me about **Security and Frontend and IT **
