@@ -7,10 +7,9 @@
   
   <img src="https://github.com/Djabouex/Djabouex/blob/main/eagle-logo-design-vector.png" align="right" width="25%"/>
 
-I'm a ForntEnd developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
-
-- 🔭 I'm a Frontend developer at [@fiverr] 
+I'm a Computer Technician and Project Manager Previously worked in a center of more than 250 employees. I have over 7 years of experience in Factory Tools, Office Equipments, Computer Systems Repair, Hardware, Software, and Networking. I strive to use a wide range of computer knowledge and technical skills to become an advanced computer technician and professional project manager..
+- 🔭 I'm a Computer Technician and Project Manager 
 - 🔍 I have a live Website:
 -    [ https://djaboux.neocities.org/ ]
--  🌱 I’m currently learning for javascript
-- 💬 Ask me about **Security and Frontend and IT **
+-  🌱 I’m currently learning for Web Developer
+- 💬 Ask me about **Computer Technician and Project manager and WebDev **
