@@ -12,4 +12,5 @@ I'm a Computer Technician and Project Manager Previously worked in a center of m
 - 🔍 I have a live Website:
 -    [ https://djaboux.neocities.org/ ]
 -  🌱 I’m currently learning for Web Developer
+-  gem I love to customize everything lol
 - 💬 Ask me about **Computer Technician and Project manager and WebDev **
