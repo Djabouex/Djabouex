@@ -14,6 +14,7 @@ I'm a Computer Technician and Project Manager Previously worked in a center of m
 - :gem: I love to customize everything lol
 - 🥅 2022 Goals: Hmm..thinking.!
 - 💬 Ask me about **Computer Technician and Project manager and WebDev **
+- mailbox   How to reach me: Via email (imtomiiq@gmail.com)
 
 
 ⚡ Fun fact <br>
