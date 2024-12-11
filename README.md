@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Djaballah</h1>
+<h1 align="center">Hey 👋 nice to see you.</h1>
 <h3 align="center">I’m a Help Desk Technician passionate about troubleshooting, technical support, and problem-solving. I'm always eager to learn and grow in the tech world, and I’m currently expanding my skills in web development, system optimization, and digital marketing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djabouex&label=Profile%20views&color=0e75b6&style=flat" alt="djabouex" /> </p>
 
  - 🔭 I’m currently working on [Front-end Projects](https://github.com/Djabouex/First-HTML-CSS-Project/)
 
@@ -32,5 +31,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/MohamedDjaboux" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MohamedDjaboux" /></a></p><br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djabouex&label=Profile%20views&color=0e75b6&style=flat" alt="djabouex" /> </p>
+
 
 
