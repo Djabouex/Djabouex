@@ -3,29 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djabouex&label=Profile%20views&color=0e75b6&style=flat" alt="djabouex" /> </p>
 
-- 🔭 I’m currently working on [Front-end Projects](https://github.com/Djabouex)
+ - 🔭 I’m currently working on [Front-end Projects](https://github.com/Djabouex)
 
 - 🌱 I’m currently learning **Git, Linux, Course(SEO)**
 
-- 🤝 Let's Collaborate **I'm always open to new opportunities and projects! Feel free to reach out if you need assistance or want to work together.**
-
-- 💬 Ask me about **Digital Marketing, SEO, Front-end Dev**
-
-- 📌**What I Do**
-
-- 🌐 Building modern and responsive websites (focused on mastering CSS and JavaScript).
-
-- 📸 Professional photo and video editing to enhance your brand.
-
-- 📈 Social media marketing and improving your website’s visibility on Google.
-
-- 🚀 **Why Work With Me?**
+ 🚀 **Why Work With Me?**
 
 - I combine technical expertise with creativity to deliver unique and tailored results.
   
 - Committed to high-quality work and meeting deadlines.
   
 - Dedicated to adding value and ensuring your vision comes to life.
+
+- 🤝 Let's Collaborate **I'm always open to new opportunities and projects! Feel free to reach out if you need assistance or want to work together.**
+
+ - 💬 Ask me about **Digital Marketing, SEO, Front-end Dev**
 
 - ⚡ Fun fact **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler**
 
