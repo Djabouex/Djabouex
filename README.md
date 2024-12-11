@@ -9,10 +9,10 @@
 Hi! I’m Mohamed Djaballah, a Help Desk Technician driven by a passion for delivering innovative and customized tech solutions that empower individuals and businesses to succeed.
 
 📌 What I Do
-• 🛠️ Fixing hardware and system issues efficiently and effectively.
-• 🌐 Building modern and responsive websites (focused on mastering CSS and JavaScript).
-• 📸 Professional photo and video editing to enhance your brand.
-• 📈 Social media marketing and improving your website’s visibility on Google.
+• - 🛠️ Fixing hardware and system issues efficiently and effectively.
+• - 🌐 Building modern and responsive websites (focused on mastering CSS and JavaScript).
+• - 📸 Professional photo and video editing to enhance your brand.
+• - 📈 Social media marketing and improving your website’s visibility on Google.
 
 🚀 Why Work With Me?
 • I combine technical expertise with creativity to deliver unique and tailored results.
