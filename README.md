@@ -6,15 +6,23 @@
   
   <img src="https://github.com/Djabouex/Djabouex/blob/main/eagle-logo-design-vector.png" align="right" width="25%"/>
 
-I'm a Computer Technician and Project Manager Previously worked in a center of more than 250 employees. I have over 7 years of experience in Factory Tools, Office Equipments, Computer Systems Repair, Hardware, Software, and Networking. I strive to use a wide range of computer knowledge and technical skills to become an advanced computer technician and professional project manager..
-- 🔭 I'm a Computer Technician and Project Manager 
-- 🔍 I have a live Website:
--    [ https://djaboux.neocities.org/ ]
--  🌱 I’m currently learning for Web Developer
-- :gem: I love to customize everything lol
-- 🥅 2022 Goals: Hmm..thinking.!
-- 💬 Ask me about **Computer Technician and Project manager and WebDev **
-- mailbox   How to reach me: Via email (****@gmail.com)
+Hi! I’m Mohamed Djaballah, a Help Desk Technician driven by a passion for delivering innovative and customized tech solutions that empower individuals and businesses to succeed.
+
+📌 What I Do
+• 🛠️ Fixing hardware and system issues efficiently and effectively.
+• 🌐 Building modern and responsive websites (focused on mastering CSS and JavaScript).
+• 📸 Professional photo and video editing to enhance your brand.
+• 📈 Social media marketing and improving your website’s visibility on Google.
+
+🚀 Why Work With Me?
+• I combine technical expertise with creativity to deliver unique and tailored results.
+• Committed to high-quality work and meeting deadlines.
+• Dedicated to adding value and ensuring your vision comes to life.
+
+🎯 My Services
+• Web development with a focus on clean, user-friendly designs.
+• Professional photo and video editing to elevate your projects.
+• Social media marketing and SEO optimization to grow your brand.
 
 
 ⚡ Fun fact <br>
